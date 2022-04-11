@@ -1,57 +1,57 @@
 let questions = [
     {
     numb: 1,
-    question: "Whos ur mine?",
-    answer: "Marwan",
+    question: "Kepanjangan dari HTML",
+    answer: "Hypertext Markup Language",
     options: [
-      "Spongebob",
-      "Franklin",
-      "Marwan",
-      "Shrek"
+      "Hypertext Markup Language",
+      "Hypertext Preprocessor",
+      "Cascading Style Sheets",
+      "Java Script"
     ]
   },
     {
     numb: 2,
-    question: "When is Marwan's birthday??",
-    answer: "June 19",
+    question: "Dibawah ini software pengoperasian database?",
+    answer: "Mysql Workbench",
     options: [
-      "March 11",
-      "June 19",
-      "December 29",
-      "Who care!"
+      "HTML",
+      "Mysql Workbench",
+      "Windows",
+      "Excel"
     ]
   },
     {
     numb: 3,
-    question: "Wanna be mine!",
-    answer: " Ask to marwan",
+    question: "Programmer itu",
+    answer: " Superhero",
     options: [
-      "I don't think so",
-      "Ofc",
-      "Wanna be mine?",
-      "Ask to marwan"
+      "Tangguh",
+      "Lemah",
+      "Superhero",
+      "Pemalas"
     ]
   },
     {
     numb: 4,
-    question: "What a time at ur crush country?",
-    answer: "Night",
+    question: "Dibawah ini yang merupakan pengolah database berbasis Web GUI",
+    answer: "PHPMyAdmin",
     options: [
-      "Night",
-      "Evening",
-      "Morning",
-      "Night"
+      "PHPMyAdmin",
+      "PHP",
+      "PostgreSQL",
+      "Ruby"
     ]
   },
     {
     numb: 5,
-    question: "You know our anniversary",
-    answer: "Ask to marwan",
+    question: "Class yang mempunyai sedikitnya satu abstract metode disebut",
+    answer: "Abstract class",
     options: [
-      "Idk",
-      "Ask to marwan",
-      "December",
-      "November"
+      "Class",
+      "Abstract class",
+      "Multiple interface",
+      "Interface"
     ]
 },
 ];
